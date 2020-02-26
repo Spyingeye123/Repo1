@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is E2E0-4D09
+
+ Directory of C:\Users\bowse\Desktop\GitProject
+
+02/25/2020  06:40 PM    <DIR>          .
+02/25/2020  06:40 PM    <DIR>          ..
+02/25/2020  06:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  833,031,323,648 bytes free
